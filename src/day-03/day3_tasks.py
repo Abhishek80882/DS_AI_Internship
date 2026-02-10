@@ -21,9 +21,11 @@ print("Afternoon Peak readings are : ",temperatures[3:6])
 print("the Last 3 Hours are : ",temperatures[-3:])
 
 
+
 #TASK 3 (Goal: Understand why Tuples cannot be changed (Immutability).)
 print("\nTASK 3 (Goal: Understand why Tuples cannot be changed (Immutability).)")
 screen_res = (1920,1080)
 print("Current Resolution : ",screen_res[0],"X",screen_res[1])
 screen_res[0]=1280
 print(screen_res) 
+print("Tuples cannot be modified!")
