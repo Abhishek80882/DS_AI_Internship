@@ -15,3 +15,6 @@ plt.show()
 # Box-Plot 
 sns.boxplot(df['Price'])
 plt.show()
+
+print(f"\nStatistical Summary : \n{df.describe()}")
+
