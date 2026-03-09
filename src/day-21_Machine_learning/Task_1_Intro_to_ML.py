@@ -1,7 +1,4 @@
 Machine_Learning = """
-* Machine Learning (ML) is a way to make computers learn from data.
-* It helps computers find patterns and make decisions without being clearly programmed.
-* The more data it gets, the better it can improve.
-* It is used in things like YouTube recommendations, Google search, and face unlock.
+Machine Learning is a way of teaching computers to learn from data instead of writing all the rules step by step. In normal programming, we give data and rules to get answers. But in Machine Learning, we give data and correct answers, and the computer learns the rules by itself. It finds patterns in the data and uses them to make future predictions.
 """
 print(Machine_Learning)
